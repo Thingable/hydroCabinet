@@ -39,8 +39,8 @@ class hydroCabinet{
     //Pin Delclarations
     const int LIGHT_CONTROL = 12;
     
-    const char* ssid     = "FireFi";
-    const char* password = "yd995bqb84";
+    const char* ssid     = "SSID";
+    const char* password = "PASSWORD";
     const unsigned long HTTP_TIMEOUT = 10000;  // max respone time from server
     const size_t MAX_CONTENT_SIZE = 512;       // max size of the HTTP response
 };
